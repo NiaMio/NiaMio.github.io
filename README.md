@@ -1,3 +1,4 @@
 # LandingPage
-Developing the start of a personal web page
-This will initially use html, css, and JavaScript as I learn the basics
+A very basic landing page centered around a character I love
+Uses html and css in two separate files
+Formatted with Flexbox within css
